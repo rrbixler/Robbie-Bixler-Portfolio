@@ -3459,6 +3459,7 @@ table span.badge {
 }
 
 .section.no-pad-bot {
+  justify-content: flex-end;
   padding-bottom: 0;
 }
 
