@@ -9059,5 +9059,5 @@ input[type=range]::-ms-thumb {
 }
 
 #welcome-message {
-  justify-content: flex-end;
+  justify-content: space-around;
 }
