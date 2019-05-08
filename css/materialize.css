@@ -3,10 +3,6 @@
  * Copyright 2014-2017 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
-#welcome-message {
-  justify-content: flex-end;
-}
-
 .materialize-red {
   background-color: #e51c23 !important;
 }
@@ -9060,4 +9056,8 @@ input[type=range]::-ms-thumb {
     text-align: center;
     margin-top: 1.2rem;
   }
+}
+
+#welcome-message {
+  justify-content: flex-end;
 }
