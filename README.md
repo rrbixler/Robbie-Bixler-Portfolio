@@ -37,8 +37,6 @@ NOTE: There are lots more, but let's start with these!
 If you’ve got design chops, use them. You have an opportunity to impress a wide audience with both your coding skills and your design abilities with this site.
 If you are not a strong designer, that’s okay too! Don’t try to be something that you’re not on this site. Keep your design simple, or mock up your site based off of another site you have seen that looks great. Get feedback from colleagues (especially non-developers and non-designers) to make sure it doesn’t look terrible. Keep it neutral and focus on producing good projects.
 
-## GH Pages
-
 ## A Quick Note on Technology
 
 As you may know by now, in WDI we'll use [browser-template](https://git.generalassemb.ly/ga-wdi-boston/browser-template) to create
@@ -54,17 +52,3 @@ Outcomes. If your question is "Is it appropriate to put a photo of me passed out
  at a bar?" the answer is "No." If your question is "Cannot read property of
  `undefined` you probably want to see what is to the left of the `.` and then
  open an issue [here](https://git.generalassemb.ly/ga-wdi-boston/portfolio-template/issues).
-
-## Additional Resources
-
-Other WDI Grads's Portfolios:
-  -  https://derekbmcintire.github.io
-  -  http://julianbarthold.com/
-  -  https://andrewinnocent.com/
-  -  https://nd56.github.io/ND-Portfolio/
-  -  http://rhjones.me/
-  -  http://gabescarbrough.com/
-  -  https://nriser.github.io/portfolio/
-  -  https://jbculbertson.github.io/
-  -  https://coreyfedde.github.io/portfolio/
-  -  http://cathyobrien.co
