@@ -1,8 +1,3 @@
-## Why?
-
-It's important that you begin thinking about what you want your online presence to look like. What do you want people to find when they google you? What do you want people's first impression of you to be when they visit the url on your business card?
-
-## User Stories to Get Started With
 
 -  As a non-technical HR manager, I want to quickly evaluate whether this candidate has the skills and experience to fill an open position at my company.
 -  As a mid-level engineer, I want to evaluate a junior developer’s coding skills by reviewing their projects and reading their code.
@@ -42,28 +37,7 @@ NOTE: There are lots more, but let's start with these!
 If you’ve got design chops, use them. You have an opportunity to impress a wide audience with both your coding skills and your design abilities with this site.
 If you are not a strong designer, that’s okay too! Don’t try to be something that you’re not on this site. Keep your design simple, or mock up your site based off of another site you have seen that looks great. Get feedback from colleagues (especially non-developers and non-designers) to make sure it doesn’t look terrible. Keep it neutral and focus on producing good projects.
 
-### Save Us From Design!
-We highly recommend you use [Bootstrap](http://getbootstrap.com/css/), [Materialize](http://materializecss.com/), or [Foundation](http://foundation.zurb.com/sites/docs/v/5.5.3/css.html) to aid with
-the design of your portfolio. Choose one, and start adding features to your site!
-This doesn't mean you can't change in the future, but do some research and pick
-which ever one you like best!
-
-## Installation
-
-1.  [Download](../../archive/master.zip) this template.
-1.  Unzip and rename the template directory.
-1.  Empty [`README.md`](README.md) and fill with your own content.
-1.  Move into the new project and `git init`.
-1.  Create a Github repository as the remote for your portfolio
-1.  Deploy on [GH pages](https://pages.github.com/) as account User Site
-
 ## GH Pages
-
-#### Portfolio
-You can only host 1 "User Site" per account/organization on the URL `username.github.io` so you are using that as your portfolio since it will be the showcase of the rest of the projects on your GH account.  Read more about [User Sites here](https://help.github.com/articles/user-organization-and-project-pages/#project-pages)
-
-#### Projects
-GH allows you to host other web sites as “Project Sites” which can be on the URLs `username.github.io/project_names`. You will have 4 projects which you will launch as “Project Sites” and you can have an unlimited number of those, we hope you add more than 4 after the program!  Read more about [Project Sites here](https://help.github.com/articles/user-organization-and-project-pages/#user--organization-pages)
 
 ## A Quick Note on Technology
 
@@ -94,9 +68,3 @@ Other WDI Grads's Portfolios:
   -  https://jbculbertson.github.io/
   -  https://coreyfedde.github.io/portfolio/
   -  http://cathyobrien.co
-
-## [License](LICENSE)
-
-1.  All content is licensed under a CC­BY­NC­SA 4.0 license.
-1.  All software code is licensed under GNU GPLv3. For commercial use or
-    alternative licensing, please contact legal@ga.co.
