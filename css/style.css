@@ -11,10 +11,6 @@ nav .brand-logo {
   color: #444;
 }
 
-#logo-container1 {
-  background-image: linear-gradient(#FFF), #F6DB80);
-}
-
 p {
   line-height: 2rem;
 }
@@ -62,4 +58,8 @@ footer.page-footer {
 .project-container {
   display: flex;
   justify-content: center;
+}
+
+#logo-container1 {
+  background-image: linear-gradient(#FFF), #F6DB80);
 }
