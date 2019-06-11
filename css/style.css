@@ -8,7 +8,11 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #F2D278;
+  color: #444;
+}
+
+#logo-container {
+  background-image: linear-gradient(#000000), #F6DB80);
 }
 
 p {
