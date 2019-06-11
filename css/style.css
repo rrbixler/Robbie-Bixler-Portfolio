@@ -55,4 +55,7 @@ p {
 footer.page-footer {
   margin: 0;
 }
-.container
+.project-container {
+  display: flex;
+  justify-content: center;
+}
